@@ -5,9 +5,7 @@ VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AreaCalculator", "AreaCalculator\AreaCalculator.csproj", "{12CB35FD-74B8-4315-8A70-CD0996FB4481}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AreaCalculatorConsole", "AreaCalculatorConsole\AreaCalculatorConsole.csproj", "{88A7A084-699A-4198-9419-E5D693FB473E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCulculator.Test", "AreaCulculator.Test\AreaCulculator.Test.csproj", "{3DEE10CF-BA8A-4E32-AEC4-B20713BA9EF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AreaCulculator.Test", "AreaCulculator.Test\AreaCulculator.Test.csproj", "{3DEE10CF-BA8A-4E32-AEC4-B20713BA9EF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +17,6 @@ Global
 		{12CB35FD-74B8-4315-8A70-CD0996FB4481}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12CB35FD-74B8-4315-8A70-CD0996FB4481}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12CB35FD-74B8-4315-8A70-CD0996FB4481}.Release|Any CPU.Build.0 = Release|Any CPU
-		{88A7A084-699A-4198-9419-E5D693FB473E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{88A7A084-699A-4198-9419-E5D693FB473E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{88A7A084-699A-4198-9419-E5D693FB473E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{88A7A084-699A-4198-9419-E5D693FB473E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3DEE10CF-BA8A-4E32-AEC4-B20713BA9EF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3DEE10CF-BA8A-4E32-AEC4-B20713BA9EF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DEE10CF-BA8A-4E32-AEC4-B20713BA9EF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
